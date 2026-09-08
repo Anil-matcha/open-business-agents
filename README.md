@@ -34,12 +34,12 @@ A directory of 100+ single-purpose repos (`email-verification-agent`, `funding-s
 | Social media management | [`open-ai-social-agent`](https://github.com/SamurAIGPT/open-ai-social-agent) | Blueprint |
 | Content repurposing / clipping | [`open-ai-content-repurposing-agent`](https://github.com/SamurAIGPT/open-ai-content-repurposing-agent) | Blueprint |
 | Marketing (email, campaigns, product) | [`open-ai-marketing-agent`](https://github.com/SamurAIGPT/open-ai-marketing-agent) | Coming Soon |
-| Paid media (PPC, paid social, programmatic) | [`open-ai-ads-agent`](https://github.com/SamurAIGPT/open-ai-ads-agent) | Coming Soon |
+| Paid media (PPC, paid social, programmatic) | [`open-ai-ads-agent`](https://github.com/SamurAIGPT/open-ai-ads-agent) | Blueprint |
 | E-commerce / CRO | [`open-ai-ecommerce-agent`](https://github.com/SamurAIGPT/open-ai-ecommerce-agent) | Blueprint |
 | Sales / lead generation | [`open-ai-sales-agent`](https://github.com/SamurAIGPT/open-ai-sales-agent) | Blueprint |
 | Research / audience & market research | [`open-ai-research-agent`](https://github.com/SamurAIGPT/open-ai-research-agent) | Coming Soon |
 | Analytics / reporting | [`open-ai-analytics-agent`](https://github.com/SamurAIGPT/open-ai-analytics-agent) | Coming Soon |
-| Competitive intelligence | [`open-ai-competitor-intelligence-agent`](https://github.com/SamurAIGPT/open-ai-competitor-intelligence-agent) | Coming Soon |
+| Competitive intelligence | [`open-ai-competitor-intelligence-agent`](https://github.com/SamurAIGPT/open-ai-competitor-intelligence-agent) | Blueprint |
 | Reputation / PR / brand monitoring | [`open-ai-reputation-agent`](https://github.com/SamurAIGPT/open-ai-reputation-agent) | Blueprint |
 
 A "Blueprint" umbrella means at least one sub-agent inside it is built on a live Muapi API — check that repo's own README for which specific sub-agents are live vs. still Coming Soon.
