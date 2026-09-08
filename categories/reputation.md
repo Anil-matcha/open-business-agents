@@ -2,6 +2,6 @@
 
 | Umbrella repo | Covers | Status |
 |---|---|---|
-| [`open-ai-reputation-agent`](https://github.com/SamurAIGPT/open-ai-reputation-agent) | Brand monitoring, PR, review mining, sentiment tracking | Coming Soon |
+| [`open-ai-reputation-agent`](https://github.com/SamurAIGPT/open-ai-reputation-agent) | Brand monitoring, PR, review mining, sentiment tracking | Blueprint |
 
-Coming Soon — pending news/social/review-data API coverage on Muapi. Note the review-mining sub-agent partially overlaps with `ai-seo-agent`'s live Google Business Profile review endpoint and may be upgradeable for that specific review source without waiting on Amazon/app-store review data — not yet done.
+Blueprint: the review-mining sub-agent is wired to `ai-seo-agent`'s live Google Business Profile review endpoint, though it's scoped to that one review source — Amazon and app-store reviews are still not wired up. The repo's other three sub-agents (news monitoring, social sentiment, PR & communications) are still Coming Soon, pending news/social-data API coverage on Muapi.
