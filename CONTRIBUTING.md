@@ -1,6 +1,6 @@
 # Contributing
 
-Agency Agents OS accepts two kinds of contributions: a new sub-agent inside an existing umbrella repo, or a link to a high-quality external agent repository.
+Open Business Agents accepts two kinds of contributions: a new sub-agent inside an existing umbrella repo, or a link to a high-quality external agent repository.
 
 ## Adding a sub-agent to an existing umbrella repo
 
@@ -12,7 +12,7 @@ Agency Agents OS accepts two kinds of contributions: a new sub-agent inside an e
 
 ## Proposing a new umbrella repo
 
-Only propose a new umbrella when an existing one doesn't fit and the category has real, distinct search volume (e.g. "AI ads agent" is a different search intent than "AI marketing agent"). Open a discussion on `agency-agents-os` first.
+Only propose a new umbrella when an existing one doesn't fit and the category has real, distinct search volume (e.g. "AI ads agent" is a different search intent than "AI marketing agent"). Open a discussion on `open-business-agents` first.
 
 ## SKILL.md template
 

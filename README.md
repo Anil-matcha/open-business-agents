@@ -1,10 +1,12 @@
-# Agency Agents OS
+# Open Business Agents
 
 **An open ecosystem of specialized AI agents for real business work.**
 
-Discover agents for video, image, and voice production, YouTube growth, SEO, social media, advertising, sales, research, analytics, go-to-market orchestration, and more — powered by real APIs, not just prompts.
+Discover agents for video, image, and voice production, YouTube growth, SEO, social media, advertising, sales, research, analytics, go-to-market orchestration, and more — powered by real APIs, not just prompts. The same agents can be used directly by businesses or deployed repeatedly by agencies for their clients.
 
-Agency Agents OS is a curated directory of AI agents, organized as broad, focused **umbrella repositories** (one per capability area) rather than hundreds of one-off micro-repos. Each umbrella repo bundles several related sub-agents so it's easy to browse, easy to maintain, and actually rankable on GitHub search.
+Open Business Agents is a curated directory of AI agents, organized as broad, focused **umbrella repositories** (one per capability area) rather than hundreds of one-off micro-repos. Each umbrella repo bundles several related sub-agents so it's easy to browse, easy to maintain, and actually rankable on GitHub search.
+
+The catalog supports two operating modes: a business can run an agent in its own workspace, or an agency can deploy the same agent across multiple client workspaces with its own processes, approvals, and delivery model.
 
 This project is independent of, but built to work with, the [Muapi API](https://muapi.ai) — a unified API for 500+ generative-media models (video, image, voice, audio, 3D). Agents here reference Muapi's public API surfaces for execution; no Muapi source code or private implementation details live in this catalog.
 
