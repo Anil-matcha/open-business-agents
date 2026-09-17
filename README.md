@@ -17,6 +17,7 @@ This project is independent of, but built to work with, the [Muapi API](https://
 - [MuAPI MCP docs](https://muapi.ai/docs/mcp) — connect any agent's `SKILL.md` to Claude, Cursor, Windsurf, or another MCP client.
 - [MuAPI Agent Skills](https://muapi.ai/docs/agent-skills) — background on the `SKILL.md` pattern every umbrella repo in this catalog uses.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — MuAPI's broader open-source generative-media ecosystem hub.
+- [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — Typed decision, routing, and guardrail patterns for business-agent workflows.
 
 ## Why umbrella repos, not micro-repos
 
