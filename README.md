@@ -41,6 +41,7 @@ A directory of 100+ single-purpose repos (`email-verification-agent`, `funding-s
 | E-commerce / CRO | [`open-ai-ecommerce-agent`](https://github.com/SamurAIGPT/open-ai-ecommerce-agent) | Blueprint |
 | Sales / lead generation | [`open-ai-sales-agent`](https://github.com/SamurAIGPT/open-ai-sales-agent) | Blueprint |
 | Research / audience & market research | [`open-ai-research-agent`](https://github.com/SamurAIGPT/open-ai-research-agent) | Coming Soon |
+| Public-company stock research (read-only — not trading/investment advice) | [`open-ai-stock-research-agent`](https://github.com/SamurAIGPT/open-ai-stock-research-agent) | Coming Soon |
 | Analytics / reporting | [`open-ai-analytics-agent`](https://github.com/SamurAIGPT/open-ai-analytics-agent) | Coming Soon |
 | Competitive intelligence | [`open-ai-competitor-intelligence-agent`](https://github.com/SamurAIGPT/open-ai-competitor-intelligence-agent) | Blueprint |
 | Reputation / PR / brand monitoring | [`open-ai-reputation-agent`](https://github.com/SamurAIGPT/open-ai-reputation-agent) | Blueprint |
