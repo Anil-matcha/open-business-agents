@@ -8,7 +8,7 @@ Open Business Agents is a curated directory of AI agents, organized as broad, fo
 
 The catalog supports two operating modes: a business can run an agent in its own workspace, or an agency can deploy the same agent across multiple client workspaces with its own processes, approvals, and delivery model.
 
-This project is independent of, but built to work with, the [Muapi API](https://muapi.ai) — a unified API for 500+ generative-media models (video, image, voice, audio, 3D). Agents here reference Muapi's public API surfaces for execution; no Muapi source code or private implementation details live in this catalog.
+This project is independent of, but built to work with, the [Muapi API](https://muapi.ai) — a unified API for generative-media models and selected business-data capabilities. Agents here reference Muapi's public API surfaces for execution; no Muapi source code or private implementation details live in this catalog.
 
 ## Related Projects
 
@@ -50,6 +50,16 @@ A "Blueprint" umbrella means at least one sub-agent inside it is built on a live
 
 See [`categories/`](categories/) for a longer description of each grouping, or jump straight into a repo above.
 
+## Guided workflows
+
+These walkthroughs show how to turn a request into a scoped, evidence-backed deliverable. Each one follows the linked agent's actual capability status and calls out where data or validation is still needed.
+
+- [Research: build a source-grounded market brief](https://github.com/SamurAIGPT/open-ai-research-agent/blob/main/guides/source-grounded-market-research.md)
+- [Sales: verify company evidence before scoring](https://github.com/SamurAIGPT/open-ai-sales-agent/blob/main/guides/verify-before-scoring-accounts.md)
+- [Social: compare bounded samples without overclaiming](https://github.com/SamurAIGPT/open-ai-social-agent/blob/main/guides/compare-social-samples-without-overclaiming.md)
+- [E-commerce: qualify a local market lead list](https://github.com/SamurAIGPT/open-ai-ecommerce-agent/blob/main/guides/qualify-a-local-market-lead-list.md)
+- [Reputation: mine Google reviews for recurring themes](https://github.com/SamurAIGPT/open-ai-reputation-agent/blob/main/guides/mine-google-business-reviews-for-recurring-themes.md)
+
 ## Status labels
 
 Every agent in this catalog carries one of these labels so you can judge maturity before you build on it:
@@ -83,6 +93,8 @@ ai-<category>-agent/
 2. Read the sub-agent's `SKILL.md` for its mission, required inputs, and workflow.
 3. Get a Muapi API key at [muapi.ai](https://muapi.ai) if the agent needs live execution (media generation, data lookups, etc.).
 4. Load the `SKILL.md` into your agent runtime of choice, or follow it manually.
+
+For worked examples, start with [Guided workflows](#guided-workflows).
 
 ## Contributing
 

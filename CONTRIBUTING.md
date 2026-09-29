@@ -10,6 +10,8 @@ Open Business Agents accepts two kinds of contributions: a new sub-agent inside 
 4. If the required APIs are live, test the workflow end-to-end and include an example transcript.
 5. Open a pull request. Include the status label you believe applies (see the [status labels](README.md#status-labels)) and why.
 
+For a reusable workflow guide, add a Markdown file under `guides/` in the relevant umbrella repo and link it from that repo's README. A guide should state the exact capability status, required inputs, ordered steps, evidence/source handling, output shape, failure behavior, and approval boundary. Use placeholders or clearly labeled illustrative data; never present invented tool results as a measured run.
+
 ## Proposing a new umbrella repo
 
 Only propose a new umbrella when an existing one doesn't fit and the category has real, distinct search volume (e.g. "AI ads agent" is a different search intent than "AI marketing agent"). Open a discussion on `open-business-agents` first.
